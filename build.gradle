@@ -76,7 +76,7 @@ uploadArchives {
             }
 
             pom.project {
-                name 'bitfinex API Client'
+                name 'Bitfinex API Client'
                 packaging 'jar'
                 // optionally artifactId can be defined here
                 description 'BitFinex Cryptocurrency Exchange API Client'
